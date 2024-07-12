@@ -1,0 +1,11 @@
+## RECSRecommendations Upload File,,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,
+## RECS,,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.brand,entity.discountprice
+MARN1,Fans Love Travis Kielce Even More After He ‘Kissed the Boo Boo’ of Man Accidentally Struck on Golf Course,News,,https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MjA3ODA1MDY0NTY2Mjg1NjMy/acc-celebrity-golf-championship-presented-by-american-century-investments.webp,,https://parade.com/news/travis-kelce-man-accidentally-struck-golf-course-celebrity-golf-championship,,,,
+MARN2,"My Husband’s Trick for Saving Sad, Mealy Peaches",News,,https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1253/MjA3ODAwOTg1MTUyNjYxMDkx/how-to-make-sub-par-peaches-tastes-10x-better.webp,,https://parade.com/food/how-to-grill-peaches,,,,
+MARN3,"Eddie Murphy Marries Paige Butcher, Longtime Partner and Mother to 2 of His Children",News,,https://parade.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_1400/MjA3NzU5Njc3NzY3ODIxMjU4/topshot-us-entertainment-film-streaming.webp,,https://parade.com/news/eddie-murphy-married-paige-butcher-july-2024,,,,
+MARN4,Get Your First Look at Hallmark’s New Series Based on the NY Times Bestseller ‘The Chicken Sisters’,News,,https://parade.com/tv/hallmark-channel-the-chicken-sisters-season-1,,https://parade.com/tv/hallmark-channel-the-chicken-sisters-season-1,,,,
